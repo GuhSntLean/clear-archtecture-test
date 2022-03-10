@@ -15,7 +15,7 @@ app.use(
       .status(500)
       .json({
         status: "Error",
-        message: `Internal server error ${error.message}`,
+        message: `Internal server error: ${error.message}`,
       });
   }
 );
