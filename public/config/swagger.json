@@ -1,0 +1,14 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "This application is a microservice and is being documented by the swagger application.",
+        "version": "1.0.0",
+        "title": "Microservice API",
+        "contact": {
+            "email": "guleandro.66@gmail.com"
+        },
+        "license": {
+            "name": "M.I.T."
+        }
+    }
+}
